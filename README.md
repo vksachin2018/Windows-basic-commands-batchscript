@@ -39,7 +39,7 @@ Move the "MyLab" directory to the "Documents" folder. mkdir %userprofile%\Deskto
 
 
 
-## COMMAND AND OUTPUT
+## COMMAND AND OUTPU
 mv Myfile.txt %userprofile%\Documents 
 ![325138492-99f98df3-adcf-47a5-befb-fdd0122af505](https://github.com/vksachin2018/Windows-basic-commands-batchscript/assets/149366019/50d040ac-badb-4b71-b7ea-5bc8cfb6ee45)
 
